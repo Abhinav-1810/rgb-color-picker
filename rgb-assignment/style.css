@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+.container{
+    border: 1px solid white;
+    background-color: white;
+    height: 300px;
+    width: 250px;
+    /* width: fit-content; */
+    margin: 400px;
+    margin-left: 700px;
+    border-radius: 2rem;
+}
+.data{
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+    margin: 25px  ;
+}
+.output{
+    margin-left: 30%;
+    border: 1px solid ;
+    background-color: #147bf3;
+    padding: 0.7rem;
+    justify-content: center;
+    width: fit-content;
+    letter-spacing: 1px;
+    font-size: 18px;
+    border-radius: 1rem;
+}
